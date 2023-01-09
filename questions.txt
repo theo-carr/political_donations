@@ -1,0 +1,5 @@
+1. What are the leading occupations in terms of donation amount?
+    1. to which canidates?
+    
+2. What geographic regions contributed the most?
+    2a. to which canidates
